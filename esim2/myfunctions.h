@@ -2,6 +2,7 @@
 #define MYFUNCTIONS_H
 
 #include <iostream>
+
 using namespace std;
 
 void fun2();

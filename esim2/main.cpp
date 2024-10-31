@@ -1,7 +1,6 @@
-#include "myfunctions.h"
 #include <iostream>
+#include "myfunctions.h"
 
-using namespace std;
 void fun1();
 
 int main()
@@ -10,9 +9,10 @@ int main()
     fun1();
     fun2();
     fun3("Teppo Testi");
+
     return 0;
 }
 
-void fun1(){
-    cout <<"Olen funktio1"<< endl;
+void fun1() {
+    cout << "Olen funktio1" << endl;
 }
