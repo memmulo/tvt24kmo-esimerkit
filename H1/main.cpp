@@ -14,16 +14,20 @@ Tekijä: Merja Sotkasiira, 1.11.2024
 #include "myfunctions.h"
 
 using namespace std;
-int a, b;
 
 int main()
 {
+    int a, b;
     cout << "Give first interger" << endl;
     cin >>a;
     cout << "Give second interger" << endl;
     cin >>b;
     cout << "You gave intergers " << a << " and " << b << endl;
-    calcDiv(int a, int b);
     calcSum(a, b);
+    calcDiv(a, b);
+    cout << a << " plus " << b << " is again " << retSum(a, b) << endl;
+    if(retDiv(a, b) !=0) {
+    cout << a << " divided with " << b << " is again " << retDiv(a, b) << endl;
+    }
     return 0;
 }
