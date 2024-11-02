@@ -11,3 +11,8 @@ Esimerkkejä funktioista ja header-/cpp-tiedostojen käytöstä
 ## Esim3
 
 Kertoman ja binomikertoimen laskeminen
+
+## H1 
+
+Harjoiteltiin cin- ja cout-olioita. Kysytään käyttäjältä numeroita,
+summan ja osamäärän laskeminen eri tavoin.
