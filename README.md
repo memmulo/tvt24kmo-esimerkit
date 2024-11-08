@@ -17,9 +17,9 @@ Kertoman ja binomikertoimen laskeminen
 Harjoiteltiin cin- ja cout-olioita. Kysytään käyttäjältä numeroita,
 summan ja osamäärän laskeminen eri tavoin.
 
-##Esim4
+## Esim4
 
-##Esim5
+## Esim5
 
 Esimerkissä havainnostetaan eri tapoja luoda olio; eli
 <ul>
