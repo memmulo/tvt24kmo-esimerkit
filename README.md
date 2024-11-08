@@ -27,3 +27,6 @@ Esimerkissä havainnostetaan eri tapoja luoda olio; eli
 <li>Dynaaminen olio</li>
 <li>Smart-pointterilla luotu Dynaaminen olio</li>
 </ul>
+
+## Esim6
+Ylikuormittamista ja dynaamisten olioiden deletointia
