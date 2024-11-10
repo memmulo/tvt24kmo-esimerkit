@@ -15,7 +15,7 @@ void Student::setAge(int newAge)
 
 Student::Student(string fn, string ln, string em, int a)
 {
-    fname=fn;
+    fname=fn; //tai setFName(fn) jos tarkistuksia
     lname=ln;
     email=em;
     setAge(a);

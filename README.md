@@ -30,3 +30,6 @@ Esimerkissä havainnostetaan eri tapoja luoda olio; eli
 
 ## Esim6
 Ylikuormittamista ja dynaamisten olioiden deletointia
+
+## Harjoitus2a
+Harjoiteltiin luokkien ja olioiden tekoa
