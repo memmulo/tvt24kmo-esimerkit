@@ -24,7 +24,7 @@ int main()
     for(int x=0; x<=2; x++){
         catList[x].printData();
     }
-    //for-looppi, jos ei tiedetä alkioiden määrää, ei toimi catList,
+    //for-looppi, jos ei tiedetä alkioiden määrää, ei toimi catList tulostus,
     //joutuu tulostamaan getterit
     cout<<"Versio2"<<endl;
     for(const Cat& cat: catList){

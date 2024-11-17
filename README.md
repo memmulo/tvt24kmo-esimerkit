@@ -31,5 +31,11 @@ Esimerkissä havainnostetaan eri tapoja luoda olio; eli
 ## Esim6
 Ylikuormittamista ja dynaamisten olioiden deletointia
 
+## Esim7
+Vektorien käyttöä
+
 ## Harjoitus2a
 Harjoiteltiin luokkien ja olioiden tekoa
+
+## Harjoitus2b
+Harjoiteltiin vektorien käyttöä
