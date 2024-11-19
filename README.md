@@ -39,3 +39,7 @@ Harjoiteltiin luokkien ja olioiden tekoa
 
 ## Harjoitus2b
 Harjoiteltiin vektorien käyttöä
+
+## Esim8
+Pienen Qt-ongelmatiikan jälkeen nimesin projektin uudelleen,
+nyt nimi on Harj8uusi. Tässä opeteltiin periytymistä ja ylikirjoittamista.
