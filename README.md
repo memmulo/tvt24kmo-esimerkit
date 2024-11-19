@@ -2,7 +2,7 @@
 
 ## Esim1
 
-Demosin Gitin käyttöä
+Demottiin Gitin käyttöä
 
 ## Esim2
 
@@ -42,7 +42,11 @@ Harjoiteltiin vektorien käyttöä
 
 ## Esim8
 Pienen Qt-ongelmatiikan jälkeen nimesin projektin uudelleen,
-nyt nimi on Harj8uusi. Tässä opeteltiin periytymistä ja ylikirjoittamista.
+nyt nimi on Harj8uusi, entinen nimi Esim8. 
+Tässä opeteltiin luokkien periytymistä ja ylikirjoittamista.
 
 ## Harjoitus3a
 Harjoiteltiin luokkien periytymistä
+
+## Harjoitus3b
+Harjoiteltiin ylikirjoittamista perivässä luokassa
