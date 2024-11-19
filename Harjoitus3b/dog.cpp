@@ -7,7 +7,7 @@ Dog::Dog()
 
 Dog::~Dog()
 {
-    cout<<"Dog olio tuhoutuu juuri nyt!"<<endl;
+    //cout<<"Dog olio tuhoutuu juuri nyt!"<<endl;
 }
 
 void Dog::callOut()

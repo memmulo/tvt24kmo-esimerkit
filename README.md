@@ -50,3 +50,6 @@ Harjoiteltiin luokkien periytymistä
 
 ## Harjoitus3b
 Harjoiteltiin ylikirjoittamista perivässä luokassa
+
+## pointerEsim
+Pieni harjoitus kuinka ylikuormitetaan metodeja

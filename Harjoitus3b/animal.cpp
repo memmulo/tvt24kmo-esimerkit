@@ -9,7 +9,7 @@ Animal::Animal()
 
 Animal::~Animal()
 {
-    cout<<"Animal olio tuhoutuu juuri nyt!"<<endl;
+    //cout<<"Animal olio tuhoutuu juuri nyt!"<<endl;
 }
 
 void Animal::callOut()
