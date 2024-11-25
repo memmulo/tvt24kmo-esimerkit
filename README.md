@@ -53,3 +53,6 @@ Harjoiteltiin ylikirjoittamista perivässä luokassa
 
 ## pointerEsim
 Pieni harjoitus kuinka ylikuormitetaan metodeja
+
+## Kooste 1 ja 2
+Harjoiteltiin koosteluokkien käyttöä
