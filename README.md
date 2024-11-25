@@ -56,3 +56,6 @@ Pieni harjoitus kuinka ylikuormitetaan metodeja
 
 ## Kooste 1 ja 2
 Harjoiteltiin koosteluokkien käyttöä
+
+## Harjoitus4
+Vahva kooste (kompositio) tehtävä

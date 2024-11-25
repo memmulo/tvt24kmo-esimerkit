@@ -8,6 +8,7 @@ int main()
 {
     LoginForm objLoginForm;
     objLoginForm.setLabelLogin("Login Label");
-    cout<<objLoginForm.getLabelLogin();
+    cout<<objLoginForm.getLabelLogin()<<endl;
+    objLoginForm.initializeForm();
     return 0;
 }
