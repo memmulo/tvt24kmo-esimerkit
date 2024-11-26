@@ -59,3 +59,6 @@ Harjoiteltiin koosteluokkien käyttöä
 
 ## Harjoitus4
 Vahva kooste (kompositio) tehtävä
+
+## Qt parent esimerkki
+Testataan Qt:n parent ominaisuutta
