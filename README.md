@@ -62,3 +62,7 @@ Vahva kooste (kompositio) tehtävä
 
 ## Qt parent esimerkki
 Testataan Qt:n parent ominaisuutta
+
+## http_example
+Tässä ohjelmassa testattiin kuinka saadaan haettua dataa netistä
+Qt-sovellukseen käyttämällä HTTP-requestia ja responsea
