@@ -66,3 +66,7 @@ Testataan Qt:n parent ominaisuutta
 ## http_example
 Tässä ohjelmassa testattiin kuinka saadaan haettua dataa netistä
 Qt-sovellukseen käyttämällä HTTP-requestia ja responsea
+
+## Harjoitus5
+Tässä harjoiteltiin vielä sekä pointtereita, että referenssiä. Selvä
+ja hyvä harjoitus!!!
