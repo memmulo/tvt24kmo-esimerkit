@@ -70,3 +70,4 @@ Qt-sovellukseen käyttämällä HTTP-requestia ja responsea
 ## Harjoitus5
 Tässä harjoiteltiin vielä sekä pointtereita, että referenssiä. Selvä
 ja hyvä harjoitus!!!
+Lisäksi testattiin assosiaation ja aggregaation vaikutusta
