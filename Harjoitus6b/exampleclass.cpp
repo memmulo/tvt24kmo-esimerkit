@@ -5,6 +5,7 @@ ExampleClass::ExampleClass(QObject *parent)
 {
     qDebug()<<"Start";
     connect(this, SIGNAL(readyToSay()),this,SLOT(sayHelloSlot()));
+    qDebug()<<"End";
 }
 
 void ExampleClass::startToWait()
