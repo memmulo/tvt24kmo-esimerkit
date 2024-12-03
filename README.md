@@ -71,3 +71,6 @@ Qt-sovellukseen käyttämällä HTTP-requestia ja responsea
 Tässä harjoiteltiin vielä sekä pointtereita, että referenssiä. Selvä
 ja hyvä harjoitus!!!
 Lisäksi testattiin assosiaation ja aggregaation vaikutusta
+
+## GraphicalApp1
+Harjoiteltiin tekemään graafista Widget sovellusta Qt:lla
