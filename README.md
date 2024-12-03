@@ -74,3 +74,7 @@ Lisäksi testattiin assosiaation ja aggregaation vaikutusta
 
 ## GraphicalApp1
 Harjoiteltiin tekemään graafista Widget sovellusta Qt:lla
+
+## Harjoitus6a
+Kokeiltiin, mitä pitää lisätä C++ projektiin, että päästään hyödyntämään
+Qt Frameworkin ominaisuuksia
