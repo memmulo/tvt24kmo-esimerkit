@@ -82,3 +82,8 @@ Qt Frameworkin ominaisuuksia
 ## Harjoitus6b
 Qt Console tyyppinen sovellus, jossa testailtiin saman tyyppisiä
 ominaisuuksia kuin edellisessäkin tehtävässä. Signal Slot.
+
+## Harjoitus7
+Qt Widget harjoitus, jossa luodaan kaksi pushbuttonia, count ja reset.
+Countin painaminen lisää yhden sekä labeliin, että lineeditiin, sekä 
+resetin painaminen nollaa arvot.
