@@ -8,6 +8,8 @@ int main(int argc, char *argv[])
 
     ExampleClass *objExampleClass=new ExampleClass;
     objExampleClass->startToWait();
+    delete objExampleClass;
+    objExampleClass=nullptr;
 
     // Set up code that uses the Qt event loop here.
     // Call a.quit() or a.exit() to quit the application.
